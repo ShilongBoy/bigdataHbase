@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hbase-common-1.3.1">
+    <CLASSES>
+      <root url="jar://D:/SoftProgra/maven/jar/hbase-common-1.3.1.jar!/" />
+      <root url="jar://D:/SoftProgra/maven/jar/spark-redis-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
